@@ -10,7 +10,7 @@ Category.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      AutoIncrement: true
+      autoIncrement: true
 
     },
 
